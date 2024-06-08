@@ -1,5 +1,5 @@
-<!-- Subscribe Youtube : Ninja Code -->
-<!-- Simple Snake Game In Python Using Pygame -->
+# Subscribe Youtube : Ninja Code 
+# Simple Snake Game In Python Using Pygame 
 
 import pygame
 import time
